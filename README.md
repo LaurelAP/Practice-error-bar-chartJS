@@ -10,6 +10,8 @@ You can notice that as locations become smaller, the margins of error become lar
 
 Thanks [@JackDougherty](https://github.com/HandsOnDataViz/chartjs-templates/issues/3) for a wonderful choice of geographies.
 
+https://laurelap.github.io/Practice-error-bar-chartJS/
+
 ## Create your own
 See chapter 10: Chart.js and Highcharts templates in [Hands-On Data Visualization](https://handsondataviz.org) by Jack Dougherty and Ilya Ilyankou.
 
