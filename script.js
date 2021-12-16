@@ -3,7 +3,7 @@ $(document).ready(function() {
   var TITLE = 'Household Income for Select US Geographies, 2018';
 
   // `false` for vertical (column) chart, `true` for horizontal bar
-  var HORIZONTAL = false;
+  var HORIZONTAL = true;
 
   // `false` for individual bars, `true` for stacked bars
   var STACKED = false;  
@@ -16,13 +16,13 @@ $(document).ready(function() {
     {
       column: 'median',
       name: 'Median Income',
-      color: 'grey',
+      color: '#ff0066',
       errorColumn: 'median_moe'
     },
     {
       column: 'mean',
       name: 'Mean Income',
-      color: '#cc9999',
+      color: '#8585ad',
       errorColumn: 'mean_moe'
     }
   ];
